@@ -10,6 +10,11 @@ namespace GitTest3
     {
         static void Main(string[] args)
         {
+            ///
+            /// add
+            /// comment
+            //
+            /// 
             Console.WriteLine("...dr....gi");
         }
     }
