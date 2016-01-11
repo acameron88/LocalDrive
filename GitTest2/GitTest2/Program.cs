@@ -6,6 +6,7 @@ namespace GitTest2
     {
         static void Main(string[] args)
         {
+            //This it the best way to commit
             Console.WriteLine("Test Git");
             Console.ReadLine();
         }
